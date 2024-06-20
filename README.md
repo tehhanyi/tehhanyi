@@ -64,9 +64,9 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
   </a>
 </div>
 <br>
+
 ### 🤔 I’m looking for help with
-Anything backend...feel free to hmu if you are good with Database/API development and deployments, I'm happy to collaborate!
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
+Anything backend...feel free to hmu if you are good with Database/API development and deployments, I'm happy to collaborate! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
 
 
 <!--
