@@ -50,13 +50,8 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </div>
 
-### 🤔 I’m looking for help with
-Anything backend...please hmu if you are good with Database/API development and deployments.
-
-<br>
 
 ## 📫 Let's connect!
-
 <div display="flex">
   <a href="https://www.linkedin.com/in/tehhanyi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -68,6 +63,11 @@ Anything backend...please hmu if you are good with Database/API development and 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+<br>
+### 🤔 I’m looking for help with
+Anything backend...feel free to hmu if you are good with Database/API development and deployments, I'm happy to collaborate!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
+
 
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile
