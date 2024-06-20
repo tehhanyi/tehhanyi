@@ -43,6 +43,11 @@ I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack deve
   <a href="https://telegram.me/harleyyyyyxd">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hvnyiteh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+
 </div>
 <br>
 <div display="flex">
