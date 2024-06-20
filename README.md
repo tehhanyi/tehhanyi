@@ -2,7 +2,7 @@
 
 I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack developer someday
 
-**I love working with 👩🏻‍💻**
+**👩🏻‍💻 I love working with**
 <div display="flex">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" atl ="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" atl ="Dart"/>
