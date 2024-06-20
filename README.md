@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley+%F0%9F%90%A5" alt="Typing SVG" /></a>
 
 I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring to be a full stack developer someday
+<br>
 
 ### 👩🏻‍💻 I love working with these languages and frameworks 
 <div display="flex">
@@ -15,6 +16,11 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" atl ="HTML5"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" atl ="Python"/>
 </div>
+<br>
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
+</div>
+(app developer core fr)
 
 ### 🛠️ My favourite tools
 <div display="flex">
@@ -61,14 +67,7 @@ Anything backend...please hmu if you are good with Database/API development and 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hvnyiteh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-
 </div>
-<br>
-<div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
-</div>
-(app developer core fr)
 
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile
