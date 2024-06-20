@@ -1,9 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=1C9C97&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley+%F0%9F%90%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=1C9C97&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley+%F0%9F%90%A5" alt="Typing SVG" /></a>
 
-I'm a mobile app and website developer 🕺🏽
-Aspiring to be a full stack developer someday
+I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack developer someday
 
-**I love working with**
+**I love working with 👩🏻‍💻**
 <div display="flex">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" atl ="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" atl ="Dart"/>
@@ -45,15 +44,15 @@ Aspiring to be a full stack developer someday
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
+<br>
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tehhanyi&theme=blue-green" alt ="Stats"/>
 </div>
+
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=tehhanyi&theme=blue-green" alt ="Stats"/>
 <img src="https://img.shields.io/github/followers/tehhanyi.svg?style=social&label=Follow&maxAge=2592000" alt="follow me"/>
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
