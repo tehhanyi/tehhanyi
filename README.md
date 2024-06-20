@@ -1,11 +1,7 @@
-## Hallo! I am Harley 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=1C9C97&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley+%F0%9F%90%A5" alt="Typing SVG" /></a>
 
 I'm a mobile app and website developer 🕺🏽
 Aspiring to be a full stack developer someday
-
-<div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
-</div>
 
 **I love working with**
 <div display="flex">
@@ -18,14 +14,11 @@ Aspiring to be a full stack developer someday
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" atl ="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" atl ="Javascript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" atl ="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" atl ="Python"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" atl ="Figma"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" atl ="VSC"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" atl ="Android Studio"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" atl ="Jira"/>
-
-
 </div>
 
 ### 🌱 I’m learning
@@ -42,7 +35,7 @@ Aspiring to be a full stack developer someday
 
 - Anything backend...please hmu if you are good with database/api development and deployments.
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/tehhanyi/">
@@ -53,10 +46,12 @@ Aspiring to be a full stack developer someday
   </a>
 </div>
 
-<img src="https://img.shields.io/github/followers/tehhanyi.svg?style=social&label=Follow&maxAge=2592000" alt="follow me"/>
-
-
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tehhanyi&theme=blue-green" alt ="Stats"/>
+</div>
 <!--
+<img src="https://img.shields.io/github/followers/tehhanyi.svg?style=social&label=Follow&maxAge=2592000" alt="follow me"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
