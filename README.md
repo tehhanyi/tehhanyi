@@ -15,7 +15,7 @@ I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack deve
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" atl ="HTML5"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" atl ="Python"/>
 </div>
-
+<br>
 **🛠️ My favourite tools**
 <div display="flex">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" atl ="VSC"/>
@@ -31,6 +31,7 @@ I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack deve
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" atl ="Jira"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" atl ="Notion"/>
 </div>
+<br>
 
 ### 🌱 I’m learning
 <div display="flex">
