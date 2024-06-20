@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley+%F0%9F%90%A5" alt="Typing SVG" /></a>
 
-I'm a mobile app and website developer 🕺🏽 Aspiring to be a full stack developer someday
+I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring to be a full stack developer someday
 
 ### 👩🏻‍💻 I love working with these langages and frameworks 
 <div display="flex">
@@ -68,6 +68,7 @@ Anything backend...please hmu if you are good with Database/API development and 
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
 </div>
+(app developer core fr)
 
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile
