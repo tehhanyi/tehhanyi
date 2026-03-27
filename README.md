@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" height = "55"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Hello!+I'm+Harley" alt="Typing SVG" /></a> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" height = "55"/> <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Hello!+I'm+Harley" alt="Typing SVG" /></a> 
 
 I'm a web and mobile frontend developer 🕺🏽
 <br>
