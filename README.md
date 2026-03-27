@@ -3,6 +3,7 @@
 
 I'm a web and mobile frontend developer 🕺🏽
 <br>
+<br>
 
 ## 📫 Let's connect!
 <div display="flex">
@@ -16,7 +17,6 @@ I'm a web and mobile frontend developer 🕺🏽
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-<br>
 
 ### 👩🏻‍💻 I work often with these languages and frameworks 
 <div display="flex">
