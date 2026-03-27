@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" height = "55"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Hallo!+I+am+Harley" alt="Typing SVG" /></a> 
 
-I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring to be a full stack developer someday
+I'm a web and mobile frontend developer 🕺🏽
 <br>
 
-### 👩🏻‍💻 I love working with these languages and frameworks 
+### 👩🏻‍💻 I work often with these languages and frameworks 
 <div display="flex">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" atl ="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" atl ="Dart"/>
@@ -17,12 +17,8 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" atl ="Python"/>
 </div>
 <br>
-<div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehhanyi&theme=blue-green" alt ="Stats"/>
-</div>
-(app developer core fr)
 
-### 🛠️ My favourite tools
+### 🛠️ My frequent tools
 <div display="flex">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" atl ="VSC"/>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" atl ="XCode"/>
@@ -35,19 +31,9 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" atl ="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" atl ="Figma"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" atl ="Jira"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" atl ="Notion"/>
-</div>
-
-### 🌱 I’m learning
-<div display="flex">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" atl ="Amazon AWS"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" atl ="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" atl ="Amazon AWS"/>
-  <img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" atl ="Strapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" atl ="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" atl ="MySQL"/>
-  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" atl ="dbeaver"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" atl ="MongoDB"/>
-  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" atl ="Notion"/>
 </div>
 
 
@@ -65,20 +51,9 @@ I'm a frontend developer, specially in mobile app and websites 🕺🏽 Aspiring
 </div>
 <br>
 
-### 🤔 I’m looking for help with
-Anything backend...feel free to hmu if you are good with Database/API development and deployments, I'm happy to collaborate! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
 
 
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
